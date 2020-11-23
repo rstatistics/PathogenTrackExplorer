@@ -1,0 +1,24 @@
+Package: PathogenTrackExplorer
+Type: Package
+Title: PathogenTrackExplorer
+Version: 0.1.0
+Author: Wei Zhang
+Maintainer: Wei Zhang <rstatistics@sjtu.edu.cn>
+Description: PathogenTrackExplorer
+License: MIT LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 3.6.0),
+Imports:
+    methods,
+    Seurat,
+    ggplot2,
+    topGO,
+    Matrix,
+    dplyr,
+    reshape2,
+    harmony,
+Suggests:
+    org.Hs.eg.db,
+RoxygenNote: 7.1.1
