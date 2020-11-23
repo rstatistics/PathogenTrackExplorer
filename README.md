@@ -18,5 +18,5 @@ devtools::install("rstatistics/PathogenTrackExplorer")
 ## Vignettes
 
 Please check the following link to get a rapid understanding:
-[Walkthrough - Exploring Intracellular Pathogens of NSCLC at Single-Cell level using PathogenTrackExplorer](https://github.com/rstatistics/PathogenTrackExplorer/blob/main/vignettes/PathogenTrackExplorerExample.html)
 
+[Walkthrough - Exploring Intracellular Pathogens of NSCLC at Single-Cell level using PathogenTrackExplorer](https://htmlpreview.github.io/?https://github.com/rstatistics/PathogenTrackExplorer/blob/main/vignettes/PathogenTrackExplorerExample.html)
