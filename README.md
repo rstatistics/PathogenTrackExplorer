@@ -20,7 +20,7 @@ Please check the following link to get a rapid understanding about PathogenTrack
 
 ## Help
 
-If you have any problems, comments or suggestions, please contact us at Wei Zhang (rstatistics@sjtu.edu.cn).
+If you have any problems, comments or suggestions, please contact [rstatistics@sjtu.edu.cn](rstatistics@sjtu.edu.cn) and [y12260@rjh.com.cn](y12260@rjh.com.cn).
 
 ## How to cite
 
