@@ -9,7 +9,7 @@ PathogenTrackExplorer R package can be easily installed under the following inst
 BiocManager::install("topGO")
 BiocManager::install("org.Hs.eg.db")
 devtools::install_github("immunogenomics/harmony")
-devtools::install("rstatistics/PathogenTrackExplorer")
+devtools::install_github("rstatistics/PathogenTrackExplorer")
 ```
 
 ## Vignettes
