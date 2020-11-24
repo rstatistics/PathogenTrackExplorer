@@ -1,5 +1,5 @@
 # PathogenTrackExplorer
-Exploring Intracellular Pathogens at Single-Cell level using PathogenTrackExplorer
+Exploring Intracellular Pathogens at Single-Cell level using PathogenTrackExplorer.
 
 ## Installation
 
@@ -22,6 +22,6 @@ Please check the following link to get a rapid understanding about PathogenTrack
 
 If you have any problems, comments or suggestions, please contact us at Wei Zhang (rstatistics@sjtu.edu.cn).
 
-## How to cite PathogenTrackExplorer
+## How to cite
 
 Manual script in submission.
