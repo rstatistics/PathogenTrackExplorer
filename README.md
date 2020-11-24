@@ -1,9 +1,6 @@
 # PathogenTrackExplorer
 Exploring Intracellular Pathogens at Single-Cell level using PathogenTrackExplorer
 
-
-
-
 ## Installation
 
 PathogenTrackExplorer R package can be easily installed under the following instruction:
@@ -17,7 +14,7 @@ devtools::install("rstatistics/PathogenTrackExplorer")
 
 ## Vignettes
 
-Please check the following link to get a rapid understanding:
+Please check the following link to get a rapid understanding about PathogenTrackExplorer:
 
 [Walkthrough - Exploring Intracellular Pathogens of NSCLC at Single-Cell level using PathogenTrackExplorer](https://htmlpreview.github.io/?https://github.com/rstatistics/PathogenTrackExplorer/blob/main/vignettes/PathogenTrackExplorerExample.html)
 
@@ -27,4 +24,4 @@ If you have any problems, comments or suggestions, please contact us at Wei Zhan
 
 ## How to cite PathogenTrackExplorer
 
-Manual script in preparation.
+Manual script in submission.
